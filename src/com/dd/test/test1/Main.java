@@ -5,7 +5,6 @@ public class Main {
 		String s = "中国π";
 		String ss = gbEncoding(s);
 		System.out.println(ss);
-
 		System.out.println(unicode2String("\\\\u03c0"));
 		System.out.println(unicode2String("\\\\u05D0"));
 		System.out.println(unicode2String("\\\\u125D"));
@@ -14,7 +13,6 @@ public class Main {
 		System.out.println(unicode2String("\\\\u175D0"));
 		char ch = 'A';
 		System.out.println(ch +=1);
-		//testUnStr();
 		for(int i = 0; i< 999999; i++){
 			//System.out.print(test0("\\u"+i));
 			if(i % 10 == 0){
