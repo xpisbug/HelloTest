@@ -2,7 +2,7 @@ package com.dd.test.test1;
 
 public class Main {
 	public static void main(String[] args) {
-		String s = "中国π杜程";
+		String s = "中国π";
 		String ss = gbEncoding(s);
 		System.out.println(ss);
 
