@@ -114,6 +114,7 @@ public class Main {
 			// 追加成string
 			string.append((char) data);
 		}
+
 		return string.toString();
 	}
 }
