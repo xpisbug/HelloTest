@@ -1,8 +1,5 @@
 package com.dd.test.test1;
 
-/**
- * Created by ducheng on 2018-02-06.
- */
 public class Main {
 	public static void main(String[] args) {
 		String s = "中国π杜程";
